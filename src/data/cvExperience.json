@@ -1,0 +1,26 @@
+{
+  "education": [
+    {
+      "title": "Fullstackutveckling .NET",
+      "details": "YH-utbildning — Chas Academy, 2025-2027"
+    }
+  ],
+  "workExperience": [
+    {
+      "role": "Placeholder",
+      "company": "Företag",
+      "period": "År–År"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Placeholder Certifikat",
+      "issuer": "Utfärdare",
+      "year": "År"
+    }
+  ],
+  "other": [
+    "Flytande svenska och engelska",
+    "Innehar Körkort B"
+  ]
+}
