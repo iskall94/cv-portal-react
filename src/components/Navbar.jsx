@@ -23,7 +23,7 @@ export default function Navbar() {
       </div>
 
       <button className="hamburger" aria-label="Toggle menu" onClick={() => setMenuOpen((prev) => !prev)}>
-        {menuOpen ? "\u2715" : "\u9776"}
+        {menuOpen ? "\u2715" : "\u2630"}
       </button>
 
       <ul className={menuOpen ? "open" : ""}>
